@@ -1,6 +1,6 @@
 # Hello there!
 
-## I'm Julia Britland, an aspiring software engineer.
+## I'm Julia Britland, an aspiring software/data engineer.
 
 ![20220318_175904 (2)](https://user-images.githubusercontent.com/120101780/210544258-bf0b0858-2b67-4fd4-88b4-067e0ec8039d.jpg) 
 
