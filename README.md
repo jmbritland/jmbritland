@@ -14,8 +14,7 @@ In the last year, I have taken several steps to launch my career in tech.
 
 #### Software Engineering Bootcamp
 
-I started by completing **HyperionDev**'s Software Engineering Bootcamp, which was co-certified by the **University of Manchester**. 
-During this full-time two-month bootcamp, I developed the following skills:
+I started by completing **HyperionDev**'s Software Engineering Bootcamp from December 2022 to January 2023, which was co-certified by the **University of Manchester**. During this full-time two-month bootcamp, I developed the following skills:
 - **Python** basics
 - Database management with **Python SQLite**
 - Front-end development with **HTML**, **CSS**, and **Bootstrap**
@@ -29,8 +28,7 @@ I created several apps during this bootcamp:
 
 #### Pioneers Program
 
-I then joined the **Albany Beck Technology Pioneers** program. This full-time three-month program gave me hands-on experience working independently and 
-with others to produce console-based and web-based apps and web services using the following technologies and methodologies:
+I then joined the **Albany Beck Technology Pioneers** program in January 2023. This full-time three-month program gave me hands-on experience working independently and with others to produce console-based apps, web-based apps, and web services using the following technologies and methodologies:
 - **Java** with **Spring**, **Spring Boot**, and **Maven**
 - **Object-Oriented Programming**
 - Multi-tiered architecture with **Spring MVC**
@@ -46,8 +44,13 @@ My projects included the following:
 - A set of microservices for a [Banking App](https://github.com/jbritland16/ClassroomExercises/tree/master/banking-application-jbritland16-master)
 - A web-based [Stock Trading App](https://github.com/jbritland16/OrderBook) built by a team of which I was the scrum master and a working team member
 
-Currently, I am continuing to build on the skills I already have and acquire new ones to enhance my employability in the tech industry. In addition to the 
-skills previously listed, I learned **C++** during university and I am learning **Javascript** through freecodecamp.org [(see my profile here)](https://www.freecodecamp.org/jbritland). I'll continue to update this page as I add skills and projects to my portfolio.
+#### Other experiences
+
+In addition to my recent experiences, I also learned **C++** during university and I continually find new learning opportunities. I recently completed the following courses through freecodecamp.org [(see my profile here)](https://www.freecodecamp.org/jbritland):
+- **JavaScript** Algorithms and Data Structures, May 2023 [(see certificate and projects here)](https://www.freecodecamp.org/certification/jbritland/javascript-algorithms-and-data-structures)
+- Responsive Web Design with **HTML** and **CSS**, June 2023 [(see certificate and projects here)](https://www.freecodecamp.org/certification/jbritland/responsive-web-design)
+
+My next step is to complete their Front End Development Libraries course, which covers Bootstrap, jQuery, SASS, React, and Redux, after which I plan on improving my previous projects with my front-end learning. I'll continue to update this page as I add skills and projects to my portfolio.
 
 ### My goals:
 
