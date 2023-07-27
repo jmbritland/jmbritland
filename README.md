@@ -49,8 +49,9 @@ My projects included the following:
 In addition to my recent experiences, I also learned **C++** during university and I continually find new learning opportunities. I recently completed the following courses through freecodecamp.org [(see my profile here)](https://www.freecodecamp.org/jbritland):
 - **JavaScript** Algorithms and Data Structures, May 2023 [(see certificate and projects here)](https://www.freecodecamp.org/certification/jbritland/javascript-algorithms-and-data-structures)
 - Responsive Web Design with **HTML** and **CSS**, June 2023 [(see certificate and projects here)](https://www.freecodecamp.org/certification/jbritland/responsive-web-design)
+- Front End Development Libraries focusing on **React.js** and **Redux.js**, July 2023 [(see certificate and projects here)](https://www.freecodecamp.org/certification/jbritland/front-end-development-libraries)
 
-My next step is to complete their Front End Development Libraries course, which covers Bootstrap, jQuery, SASS, React, and Redux, after which I plan on improving my previous projects with my front-end learning. I'll continue to update this page as I add skills and projects to my portfolio.
+My next step is to improve my previous projects with my newfound front-end skills. I'll continue to update this page as I add skills and projects to my portfolio.
 
 ### My goals:
 
