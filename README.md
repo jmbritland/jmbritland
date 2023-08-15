@@ -51,11 +51,11 @@ In addition to my recent experiences, I also learned **C++** during university a
 - Responsive Web Design with **HTML** and **CSS**, June 2023 [(see certificate and projects here)](https://www.freecodecamp.org/certification/jbritland/responsive-web-design)
 - Front End Development Libraries focusing on **React.js** and **Redux.js**, July 2023 [(see certificate and projects here)](https://www.freecodecamp.org/certification/jbritland/front-end-development-libraries)
 
-My next step is to improve my previous projects with my newfound front-end skills. I'll continue to update this page as I add skills and projects to my portfolio.
+I am currently progressing through freeCodeCamp's Data Visualization course and recently started working toward a Google Data Analytics certificate. These courses are currently my top priority, but I also plan to improve my previous projects with my new front-end skills as time allows. I'll continue to update this page as I add skills and projects to my portfolio.
 
 ### My goals:
 
-In the short-term, I am working toward landing a job in the software industry where I can develop my tech skills. While I am most keen to learn about data, I am open to any related position as I want to learn any and all skills that I can and become a well-rounded engineer.
+In the short-term, I am working toward landing a job in the tech industry where I can continue to develop existing and new skills. While I am most keen to learn about data, I am open to any related position as I want to learn any and all skills that I can and become a well-rounded engineer.
 
 In five years, I would like to develop my skills in my employment and through open-source coding, focusing on healthcare/medical software where possible. Although I am not currently working in dietetics, health is still my passion and I want to contribute to the healthcare field in my own unique way. 
 
