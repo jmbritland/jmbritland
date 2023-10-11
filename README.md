@@ -44,14 +44,35 @@ My projects included the following:
 - A set of microservices for a [Banking App](https://github.com/jbritland16/ClassroomExercises/tree/master/banking-application-jbritland16-master)
 - A web-based [Stock Trading App](https://github.com/jbritland16/OrderBook) built by a team of which I was the scrum master and a working team member
 
+#### Google Data Analytics certificate
+
+After the Pioneers Programme, I continued to look for other opportunities to learn. One of my favourite opportunities came along in August 2023 
+when I enrolled in the Google Data Analytics certificate program through Coursera. This programme taught me a variety of skills and tools for 
+utilizing data to make better business decisions, including:
+- The data analysis process
+- **Microsoft Excel** (including VLOOKUP and pivot tables)
+- **SQL**
+- Google **BigQuery**
+- **Tableau**
+- **R** programming language with RStudio
+
+I finished my coursework and case study and earned my certificate in October 2023; you can view my badge 
+[here](https://www.credly.com/badges/7023b4de-2b79-4dd7-99c1-dbc6b19908c4/public_url). My case study was rather rushed as other opportunities came up as I was finishing 
+the course, so I have plans to do a more comprehensive one later, but for now, you are welcome to view the case study [here](https://github.com/jmbritland/GoogleDataCapstone). 
+I enjoyed this certificate and was drawn by R most of all; I plan to continue learning to analyze data using 
+R and Python code after my current goals are met.
+
 #### Other experiences
 
-In addition to my recent experiences, I also learned **C++** during university and I continually find new learning opportunities. I recently completed the following courses through freecodecamp.org [(see my profile here)](https://www.freecodecamp.org/jbritland):
+In addition to these structured experiences, I have learned additional coding skills in other environments. I learned **C++** during university and I continually find new learning 
+opportunities online. In summer 2023, I completed the following courses through freecodecamp.org [(see my profile here)](https://www.freecodecamp.org/jbritland):
 - **JavaScript** Algorithms and Data Structures, May 2023 [(see certificate and projects here)](https://www.freecodecamp.org/certification/jbritland/javascript-algorithms-and-data-structures)
 - Responsive Web Design with **HTML** and **CSS**, June 2023 [(see certificate and projects here)](https://www.freecodecamp.org/certification/jbritland/responsive-web-design)
 - Front End Development Libraries focusing on **React.js** and **Redux.js**, July 2023 [(see certificate and projects here)](https://www.freecodecamp.org/certification/jbritland/front-end-development-libraries)
 
-I am currently progressing through freeCodeCamp's Data Visualization course and recently started working toward a Google Data Analytics certificate. These courses are currently my top priority, but I also plan to improve my previous projects with my new front-end skills as time allows. I'll continue to update this page as I add skills and projects to my portfolio.
+I also began freeCodeCamp's Data Visualization course but put it on hold when I started the Google Data Analytics course. I plan to pick it up again later, but I am currently 
+preparing for a possible opportunity in front-end development, so I am prioritizing JavaScript skills for now. I am updating previous projects with more refined user interfaces to 
+develop and showcase these skills. I'll continue to update this page as I add skills and projects to my portfolio.
 
 ### My goals:
 
