@@ -50,7 +50,7 @@ After the Pioneers Programme, I continued to look for other opportunities to lea
 when I enrolled in the Google Data Analytics certificate program through Coursera. This programme taught me a variety of skills and tools for 
 utilizing data to make better business decisions, including:
 - The data analysis process
-- **Microsoft Excel** (including VLOOKUP and pivot tables)
+- **Google Sheets** (including VLOOKUP and pivot tables)
 - **SQL**
 - Google **BigQuery**
 - **Tableau**
